@@ -7,9 +7,7 @@ const LabelStyle = {
         color: tokens.colors.colorBlack,
         margin: tokens.margin.xs,
         padding: tokens.padding.xs,
-        fontWeight: tokens.fontWeight.default,
-        borderWidth: 1,
-
+        fontWeight: tokens.fontWeight.normal,
     },
 
     bold: {

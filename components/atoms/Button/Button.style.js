@@ -9,7 +9,9 @@ const ButtonStyle = {
         alignItems: "center",
         // width: "100%",
         height: 40,
-
+        flex: 1,
+        margin: tokens.margin.l,
+        padding: tokens.padding.l
     },
 
     primary: {

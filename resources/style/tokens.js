@@ -38,7 +38,7 @@ const tokens = {
         xs: 2,
         s: 4,
         m: 6,
-        l: 8,
+        l: 20,
         xl: 10,
         xxl: 12
     },
